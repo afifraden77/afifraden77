@@ -48,7 +48,7 @@ def jembut():
 
 def radenafif():
     yayan=input("\n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
-    if yayan == "": 
+    if radenafif == "": 
        os.system("python Cr4ck.py")
     else:
        sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
